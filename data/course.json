@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3bb00750-4104-95e3-58ad-6f8d7504e607"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physical Chemistry",
+  "course_description": "This course is an introduction to quantum mechanics for _use_ by chemists. Topics include particles and waves, wave mechanics, semi-classical quantum mechanics, matrix mechanics, perturbation theory, molecular orbital theory, molecular structure, molecular spectroscopy, and photochemistry. Emphasis is on creating and building confidence in the use of intuitive pictures.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.61",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
